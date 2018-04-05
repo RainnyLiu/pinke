@@ -1,0 +1,8 @@
+2018-04-04 12:13:03.456 [main] INFO  新的修改-rollingloghome - 哈哈，test1
+2018-04-04 12:13:03.467 [main] WARN  新的修改-rollingloghome - 哈哈，test2
+2018-04-04 12:13:03.470 [main] DEBUG 新的修改-rollingloghome - 哈哈，test3
+2018-04-04 12:13:03.472 [main] ERROR 新的修改-rollingloghome - 哈哈，test4
+2018-04-04 12:13:35.428 [main] INFO  再一次 - 哈哈，test1
+2018-04-04 12:13:35.440 [main] WARN  再一次 - 哈哈，test2
+2018-04-04 12:13:35.443 [main] DEBUG 再一次 - 哈哈，test3
+2018-04-04 12:13:35.447 [main] ERROR 再一次 - 哈哈，test4

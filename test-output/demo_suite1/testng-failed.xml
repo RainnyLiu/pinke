@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [demo_suite1]">
+  <listeners>
+    <listener class-name="com.pinke.test.demo.MyListener"/>
+  </listeners>
+  <test name="round1(failed)">
+    <classes>
+      <class name="com.pinke.test.demo.TestNGDemo1">
+        <methods>
+          <include name="test1"/>
+          <include name="test6"/>
+        </methods>
+      </class> <!-- com.pinke.test.demo.TestNGDemo1 -->
+    </classes>
+  </test> <!-- round1(failed) -->
+</suite> <!-- Failed suite [demo_suite1] -->

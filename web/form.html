@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>form</title>
+<script type="text/javascript">
+	window.onload=function(){
+		document.getElementById("form").onsubmit=function(){}
+		alert("资料已提交");
+		document.getElementById("username").value="";
+		document.getElementById("password").value="";
+		document.getElementById("email").value="";
+		document.getElementById("username").focus();
+		return false;
+		
+	};
+		document.getElementById("form").onsubmit=function(){}
+		alert("这是一个警告框");
+	};
+		document.getElementById("form").onsubmit=function(){}
+		alert("这是一个警告框");
+	};
+</script>
+</head>
+<body>
+<form id="form" onsubmit="return false;">
+	<div>
+		<label>用户名：</label>
+		<input type="text" id="username" />		
+	</div>
+	<div>
+		<label>密码：</label>
+		<input type="password" id="password" />		
+	</div>
+	<div>
+		<label>邮箱：</label>
+		<input type="text" id="email" />		
+	</div>
+	<div>
+		<input type="submit" id="submit"  value="提交资料"/>		
+	</div>
+	
+
+</form>
+
+</body>
+</html>

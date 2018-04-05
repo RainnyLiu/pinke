@@ -1,0 +1,4 @@
+12:13:35.428 [main] INFO  再一次 - 哈哈，test1
+12:13:35.440 [main] WARN  再一次 - 哈哈，test2
+12:13:35.443 [main] DEBUG 再一次 - 哈哈，test3
+12:13:35.447 [main] ERROR 再一次 - 哈哈，test4

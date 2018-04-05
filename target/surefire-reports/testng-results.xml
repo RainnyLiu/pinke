@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo_suite1" duration-ms="30" started-at="2018-04-02T05:40:04Z" finished-at="2018-04-02T05:40:04Z">
+    <groups>
+    </groups>
+    <test name="round1" duration-ms="30" started-at="2018-04-02T05:40:04Z" finished-at="2018-04-02T05:40:04Z">
+      <class name="com.pinke.test.demo.TestNGDemo3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="test3" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="afterMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="test4" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="afterMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pinke.test.demo.TestNGDemo3@47f6473]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pinke.test.demo.TestNGDemo3 -->
+      <class name="com.pinke.test.demo.TestPredes">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.pinke.test.demo.TestPredes@4157f54e]" name="beforeTest" is-config="true" duration-ms="10" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.pinke.test.demo.TestPredes@4157f54e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.pinke.test.demo.TestPredes -->
+      <class name="com.pinke.test.demo.TestNGDemo2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="test1" duration-ms="2" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="afterMethod1" is-config="true" duration-ms="1" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="test2" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.pinke.test.demo.TestNGDemo2@90f6bfd]" name="afterMethod1" is-config="true" duration-ms="0" started-at="2018-04-02T13:40:04Z" finished-at="2018-04-02T13:40:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+      </class> <!-- com.pinke.test.demo.TestNGDemo2 -->
+    </test> <!-- round1 -->
+  </suite> <!-- demo_suite1 -->
+</testng-results>
